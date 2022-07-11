@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 # Overview
-The purpose of this analysis is to evaluate reviews written by Amazon Vine members on various products, the Grocery reviews dataset was utilized for this analysis. Our goal is to determine if there is any bias in the reviews by the members who are paid to leave reviews on products. Using PySpark and Google Colab, the data was read in and were were able to determine the number and percentages of five star feviews left by Amazon Vine customers. 
+The purpose of this analysis is to evaluate reviews written by Amazon Vine members on various products, the Grocery reviews dataset was utilized for this analysis. Our goal is to determine if there is any bias in the reviews by the members who are paid to leave reviews on products. Using PySpark and Google Colab, the data was read in and we were able to determine the number and percentages of five star feviews left by Amazon Vine customers. 
 
 # Results
 The following questions were answered using the Vine dataframe created from the Grocery dataset seen below
